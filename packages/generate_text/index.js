@@ -1,0 +1,1 @@
+export {generateText} from 'generate_text';

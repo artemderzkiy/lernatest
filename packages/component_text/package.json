@@ -1,6 +1,6 @@
 {
   "name": "component_text",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "generate_text": "^1.0.3",
+    "generate_text": "^1.0.4",
     "react": "^16.12.0"
   }
 }

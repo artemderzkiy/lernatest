@@ -6,5 +6,5 @@ export const TextComponent = ({text}) => <div>
     {text}
     {generateText()}
     {1+1}
-    ffff
+    ffff   fdfddgfdddggd
 </div>;

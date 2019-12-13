@@ -3,7 +3,8 @@ import {connect} from 'react-redux';
 import {generateText} from 'generate_text';
 
 export const TextComponent = ({text}) => <div>
-    {text}l
+    {text}
     {generateText()}
     {1+1}
+    ffff
 </div>;
